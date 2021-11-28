@@ -38,7 +38,7 @@ element {
 
 .price {
   position: relative;
-  left: 284px;
+  left: 205px;
 }
 
 .est {
@@ -60,4 +60,9 @@ element {
 
 .hrcustom {
   width: 1400px;
+}
+
+.form {
+  position: relative;
+  right: 190px;
 }
